@@ -1,0 +1,18 @@
+body {
+  max-width: 800px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: hsla(212, 65%, 91%, 0.952);
+}
+
+body * {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+p {
+  color: rgb(153, 102, 102);
+  text-align: center;
+  letter-spacing: 4px;
+}
